@@ -1,0 +1,2 @@
+# COMPX310-Introduction-to-Machine-Learning
+ This course introduces the fundamental concepts, methods, and applications of Machine Learning. Students will learn both theoretical principles and hands-on techniques, including supervised and unsupervised learning, model evaluation, neural networks, ensemble methods, and modern topics such as generative models and ethics in AI. The course emphasizes practical understanding through coding labs, lecture slides, and datasets.
